@@ -8,6 +8,8 @@ Quick links:
 [how-to video](https://www.youtube.com/watch?v=S5WNmw9AHWQ).
 
 # The edit.tf teletext editor
+Copyright 2015-2022 Simon Rawles, Alan Davies, Tim Hutton, Steve
+Horsley, Alistair Cree, Peter Fagan and David Hall.
 
 This is a teletext editor implemented in JavaScript, so that people now 
 need no more than a JavaScript-enabled browser in order to create their 
